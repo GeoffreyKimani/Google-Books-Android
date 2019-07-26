@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Books</string>
+    <string name="error_loaad_books">Could not load data from google books. Check your internet and try again</string>
+</resources>
